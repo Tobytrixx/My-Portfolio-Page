@@ -1,0 +1,33 @@
+h1 
+{font-family: "roboto";color: blue;
+}
+    
+.vase 
+{font-family: Georgia;color:green;
+}
+
+#border 
+{border:2px dashed rgb(89, 205, 201);
+}
+
+ul>li
+{display:inline;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 120px;
+}
+
+body{background-color: rgb(206, 252, 252);font-family: 'Roboto';font-size: 22px;}
+
+nav {
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: lightblue;
+  }
+
+ .hi
+ {border:5px dashed rgb(205, 89, 132);display: inline;}
